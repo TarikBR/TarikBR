@@ -1,16 +1,32 @@
-### Hi there 👋
+<div align="center">
+        <a href="#">
+            <h1>
+                <img src="https://img.shields.io/badge/TarikBR-%230d1117.svg?style=for-the-badge&logoColor=white" alt="TarikBR's Badge"/>
+            </h1>
+        </a>
+        <h3>About me</h3>
+        <p>
+            Hello! I'm Tárik, a programming student who seeks to improve his skills in the most diverse areas 👋
+            <br/>
+            I am passionate about games and I like to create mods and plugins for them ❤
+            <br/>
+            <br/>
+            My real name is Tárik Altenhofen and I'm 20 years old, currently studying Computer Science.
+        </p>
+</div>
 
-<!--
-**TarikBR/TarikBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+        <a href="#">
+                <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TarikBR&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+                <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarikBR&layout=compact&langs_count=7&theme=radical"/>
+        </a>
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <br/>
+    <a href="https://github.com/Platane/snk" target="_blank">
+        <img src="https://github.com/TarikBR/TarikBR/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+    </a>
+</div> 
