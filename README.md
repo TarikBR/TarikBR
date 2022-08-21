@@ -6,12 +6,12 @@
         </a>
         <h3>About me</h3>
         <p>
-            Hello! I'm Tárik, a programming student who seeks to improve his skills in the most diverse areas 👋
+            Hello! I'm Tárik, a programming student who seeks to improve his skills in the most diverse areas
             <br/>
-            I am passionate about games and I like to create mods and plugins for them ❤
+            I am passionate about games and I like to create mods and plugins for them
             <br/>
             <br/>
-            My real name is Tárik Altenhofen and I'm 17 years old.
+            My real name is Tárik and I'm 17 years old.
         </p>
 </div>
 
