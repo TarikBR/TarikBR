@@ -11,7 +11,7 @@
             I am passionate about games and I like to create mods and plugins for them ❤
             <br/>
             <br/>
-            My real name is Tárik Altenhofen and I'm 20 years old, currently studying Computer Science.
+            My real name is Tárik Altenhofen and I'm 17 years old.
         </p>
 </div>
 
