@@ -11,7 +11,7 @@
             I am passionate about games and I like to create mods and plugins for them
             <br/>
             <br/>
-            My real name is Tárik and I'm 17 years old.
+            My real name is Tárik and I'm 18 years old.
         </p>
 </div>
 
