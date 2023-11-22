@@ -5,7 +5,7 @@
             </h1>
         </a>
         <h3>About me</h3>
-        <p>
+        <p style="text-align:justify;">
             Hello! I'm Tárik, a programming student who seeks to improve his skills in the most diverse areas
             <br/>
             <br/>
