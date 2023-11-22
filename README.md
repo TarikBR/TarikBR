@@ -8,10 +8,8 @@
         <p>
             Hello! I'm Tárik, a programming student who seeks to improve his skills in the most diverse areas
             <br/>
-            I am passionate about games and I like to create mods and plugins for them
             <br/>
-            <br/>
-            My real name is Tárik and I'm 18 years old.
+            My real name is Tárik Daniel Altenhofen, I'm 19 years old and I live in Brazil.
         </p>
 </div>
 
