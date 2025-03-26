@@ -9,7 +9,7 @@
             Hello! I'm Tárik, a programming student who seeks to improve his skills in the most diverse areas
             <br/>
             <br/>
-            My real name is Tárik Daniel Altenhofen, I'm 19 years old and I live in Brazil.
+            My real name is Tárik Daniel Altenhofen, I'm 20 years old and I live in Brazil.
         </p>
 </div>
 
